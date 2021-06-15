@@ -28,7 +28,7 @@ int main(){
 				LedStepLeft();
 			case BUTTON_0:
 				break;
-			case BUTTON_3://test
+			case BUTTON_3:
 				break;
 			default:{}
 		}
